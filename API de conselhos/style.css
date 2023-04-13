@@ -1,0 +1,31 @@
+*{
+    background-color: darkslategrey;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding: 250,250,250,250;
+    margin: 0px;
+}
+
+.main{
+    width: 100vw;
+height: 100vh;
+background: #6C7A89;
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+}
+
+.getFrase{
+    display: grid;
+    font-size: 30px;
+    background-color: black;
+    color: white;
+    border: none;
+    border-radius: 5%;
+}
+
+.mensagem{
+    display: flexbox;
+    color:white;
+    font-size: 70px;
+}

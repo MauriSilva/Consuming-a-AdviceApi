@@ -1,0 +1,3 @@
+mais um projetinho que de consumir uma API, dessa vez consumindo uma API que retorna uma frase
+tentei estilizar um pouco mais a pagina mas CSS realmente não é o meu forte...
+os conselhos são bons pelo menos.
